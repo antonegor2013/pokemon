@@ -1,0 +1,53 @@
+<html>
+    <title> Покемоны </title>
+    <body>
+        <header style="text-align: center; background-color: lightgreen">
+            <h1> Покемоны </h1>
+            <h3> Выбери своего покемона. </h3>
+            <img src="https://cdn.pixabay.com/photo/2016/08/06/16/59/pokemon-1574648_960_720.png" height="80px" width="80px"/>
+        </header>
+        <main>
+            <h2> Кто такие покемоны? </h2>
+            <p> Покемоны — это создания всевозможных форм и размеров, живущие в природе рядом с людьми. Большинство покемонов не умеют говорить и могут лишь произнести свое имя. В данный момент вселенную покемонов населяют более 700 существ.</p>
+            <p> О покемонах заботятся их владельцы, их называют «тренерами». По мере игры покемоны растут, набираются опыта, а иногда даже эволюционируют в более сильных покемонов.</p>
+        <h2> Какие бывают покемоны? </h2>
+        <table style="border-collapse: collapse;border: 2px solid Black">
+            <tr style="border: 1px solid black; background-color:pink">
+                <td style="border: 1px solid black"> Тип </td>
+                <td style="border: 1px solid black"> Пример </td>
+                <td> Фото </td>
+            </tr>
+            <tr style="border: 1px solid black; background-color:lightgreen">
+                <td style="border: 1px solid black"> Травяной </td>
+                <td style="border: 1px solid black"> Бульбазавр </td>
+                <td> <img src="https://cdn02.nintendo-europe.com/media/images/08_content_images/news_5/2016_1/august_10/CI7_PokemonFeatureNews_Bulbasaur.jpg" height="50" width="50"/> </td>
+            </tr>
+            <tr style="border: 1px solid black; background-color:orange">
+                <td style="border: 1px solid black"> Огненный </td>
+                <td style="border: 1px solid black"> Чармандер </td>
+                <td> <img src="https://cdn02.nintendo-europe.com/media/images/08_content_images/news_5/2016_1/august_10/CI7_PokemonFeatureNews_Charmander.jpg" height="50" width="50"/> </td>
+            </tr>
+            <tr style="border: 1px solid black; background-color:lightblue">
+                <td style="border: 1px solid black"> Водный </td>
+                <td style="border: 1px solid black"> Сквиртл </td>
+                <td> <img src="https://cdn02.nintendo-europe.com/media/images/08_content_images/news_5/2016_1/august_10/CI7_PokemonFeatureNews_Squirtle.jpg" height="50" width="50"/> </td>
+            </tr>
+            <tr style="border: 1px solid black; background-color:yellow">
+                <td style="border: 1px solid black"> Электрический </td>
+                <td style="border: 1px solid black"> Пикачу </td>
+                <td> <img src="https://cdn02.nintendo-europe.com/media/images/08_content_images/news_5/2016_1/august_10/CI7_PokemonFeatureNews_Pikachu.jpg" height="50" width="50"/> </td>
+            </tr>
+            <tr style="border: 1px solid black; background-color:lightgrey">
+                <td style="border: 1px solid black"> Обычный </td>
+                <td style="border: 1px solid black"> Иви </td>
+                <td> <img src="https://cdn02.nintendo-europe.com/media/images/08_content_images/news_5/2016_1/august_10/CI7_PokemonFeatureNews_Eevee.jpg" height="50" width="50"/> </td>
+            </tr>
+        </table>
+
+        </main>
+        <footer>
+            <p> Если вы хотите поймать покемона, то пишите на почту:  <b> hochupikachu@gmail.com </b> </p>
+
+        </footer>
+    </body>
+</html>
